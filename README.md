@@ -1,9 +1,11 @@
-# my-Project
-my Project built using Technology
+# Uploading Sketch On Arduino Using Ansible
 
 ## Description
 
 ## Technology Used
+- Arduino CLI
+- Arduino IDE / Serial Monitor
+- Ansible
 
 ## Author
 
